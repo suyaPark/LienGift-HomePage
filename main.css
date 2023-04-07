@@ -846,7 +846,6 @@ section.brandlist .container {
     font-size: 25px
 }
 .brandlist img.brandimg {
-    display: block;
     max-width: 100%;
     height: auto;
 }
